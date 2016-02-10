@@ -15,3 +15,10 @@ html, body {
     background-color: #cccccc; /* Because gray is easy on the eyes */
 }
 
+a {
+	margin-left: 20px;
+}
+
+bullet {
+	margin-left: 20px;
+}
